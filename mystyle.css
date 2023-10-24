@@ -1,0 +1,36 @@
+@import url ('https://dl.dafont.com/dl/?f=qureah');
+@font-face {
+    font-family: "Qureah";
+    src: url(Qureah.otf) format('opentype');
+}
+		body{
+			background-size:cover;
+			background-attachment:fixed;
+			background-image : url("https://s3.ap-northeast-2.amazonaws.com/hanteoresource/hanteonews/article/contents/2022/01/31/2dfa22bc-a04f-4812-8e9c-a354cc6fb83e.jpg");
+		}
+		.navButton{
+            padding: 20px;
+            font-family: monospace;
+            color: #BDC9D7;
+            list-style-type: none;
+            float: right;
+            font-size: 35px;
+            border-left: 1px solid black;
+        }
+		.ENHA {
+			float:left;
+		}
+		.jay {
+			font-family: "Qureah", sans-serif ;
+			dislay:block;
+			margin-top:100px;
+			font-size: 30px;
+		}
+		.sun {
+			font-family: "Qureah", sans-serif ;
+			dislay:block;
+			margin-top:300px;
+			font-size: 25px;
+			font-style:italic;
+			text-align: center;
+			color: white;
